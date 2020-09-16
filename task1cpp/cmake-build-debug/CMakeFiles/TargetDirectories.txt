@@ -1,0 +1,3 @@
+C:/Users/Blind/CLionProjects/semester7/task1cpp/cmake-build-debug/CMakeFiles/task1cpp.dir
+C:/Users/Blind/CLionProjects/semester7/task1cpp/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Blind/CLionProjects/semester7/task1cpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
